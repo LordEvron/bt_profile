@@ -44,9 +44,12 @@ Now you can put this in your DE start up script
 
 Archlinux PKGBUILD in the archlinux folder
 
+Ubuntu/Mint prebuild binary file in the ubuntu/mint folder
+
+
 ### Using make
 
-You need make, go, go-tools, libappindicator-gtk3
+You need make, go, go-tools, libappindicator-gtk3 `sudo apt-get install gcc libgtk-3-dev libappindicator3-dev`
 
 Build with `make`
 
